@@ -1,4 +1,3 @@
-#Vehicle Number Plate Detection using OpenCV
 # 🚗 Vehicle Number Plate Detection using OpenCV & EasyOCR
 
 This project focuses on detecting and recognizing vehicle number plates from static images using Python libraries such as OpenCV, EasyOCR, and Imutils. Built and executed on **Jupyter Notebook**, it demonstrates a simple yet effective implementation of number plate recognition for automation and surveillance systems.
